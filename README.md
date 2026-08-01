@@ -1,7 +1,6 @@
 <!-- ========================================================= -->
 <!--                  PREMIUM GITHUB PROFILE                   -->
 <!-- ========================================================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Nikhil%20Pathak&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20B.Tech%20CSE%20Student%20|%20Aspiring%20Cybersecurity%20Engineer&descAlignY=56"/>
@@ -82,14 +81,6 @@
 
 ---
 
-# ⚡ 2026 Goals
-
-- 🎯 Solve **500+ LeetCode Problems**
-- 🌐 Become a **Full Stack Web Developer**
-- 📱 Build 20+ Real World Projects
-- 🤝 Contribute to Open Source
-- 🛡️ Learn Cybersecurity
-- 💼 Crack a Software Development Internship
 
 ---
 # 🛠️ Tech Stack
@@ -186,47 +177,6 @@
 
 ---
 
-# 💻 Competitive Programming
-
-### 🚀 Current Challenges
-
-- 🔥 LeetCode 75 Challenge (**C++**)
-- ☕ Daily LeetCode Challenge (**Java**)
-- ⚡ 30 Days of JavaScript (**LeetCode**)
-
----
-
-# 📊 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/nikhilpathak09/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TechbyNikhil">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🏅 Highlights
-
-🏆 Winner — **IoT Wars**
-
-🏅 Top 10 Finalist — **Inverthon 2.0**
-
-🌐 Passionate **Web Developer**
-
-💻 Active **LeetCode Problem Solver**
-
-🚀 Building real-world projects consistently
-
----
-
-
 # 🎖️ Developer Philosophy
 
 ```cpp
@@ -290,25 +240,6 @@ I'm always open to collaborating on interesting projects, discussing technology,
 
 ---
 
-# 💌 Reach Me
-
-<div align="center">
-
-📧 **Email:** **nikhilpathak0099@gmail.com**
-
-💼 **LinkedIn:** **linkedin.com/in/nikhilpathak09**
-
-💻 **GitHub:** **github.com/TechbyNikhil**
-
-🔥 **LeetCode:** **leetcode.com/u/nikhilpathak09**
-
-📸 **Instagram:** **@hey.itsnikhil**
-
-𝕏 **X (Twitter):** **@nikhilpathak09**
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
@@ -322,25 +253,10 @@ I'm always open to collaborating on interesting projects, discussing technology,
 
 ---
 
-# ❤️ Support My Work
-
-<div align="center">
-
-⭐ Star my repositories if you find them useful.
-
-🍴 Fork my projects and contribute.
-
-💬 Feel free to connect with me for collaboration.
-
-</div>
-
----
-
 # 💬 Favorite Quote
 
 <div align="center">
 
-> **"Dream Big. Start Small. Stay Consistent." 🚀**
 
 </div>
 
@@ -360,8 +276,4 @@ I'm always open to collaborating on interesting projects, discussing technology,
 
 </div>
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
-
-</p>
