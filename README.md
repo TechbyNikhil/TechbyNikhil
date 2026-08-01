@@ -24,6 +24,16 @@
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TechbyNikhil&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
 # 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
@@ -108,20 +118,7 @@
 
 ---
 
-# 💻 Skills
 
-| Skill | Level |
-|-------|:------:|
-| 🌐 HTML | ⭐⭐⭐⭐⭐ |
-| 🎨 CSS | ⭐⭐⭐⭐☆ |
-| ⚡ JavaScript | ⭐⭐⭐⭐☆ |
-| ☕ Java | ⭐⭐⭐⭐☆ |
-| 💻 C | ⭐⭐⭐⭐☆ |
-| 🚀 C++ | ⭐⭐⭐⭐☆ |
-| 🐍 Python | ⭐⭐⭐☆☆ |
-| 🔧 Git & GitHub | ⭐⭐⭐⭐☆ |
-
----
 
 # 📚 Currently Exploring
 
@@ -147,15 +144,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TechbyNikhil&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -177,25 +165,7 @@
 
 ---
 
-# 📈 Coding Activity
 
-```text
-💻 Web Development        ████████████████████ 90%
-
-☕ Java                   ████████████████░░░ 80%
-
-⚡ JavaScript            █████████████████░░ 85%
-
-🚀 C++                   ███████████████░░░░ 75%
-
-🐍 Python                ████████████░░░░░░░ 65%
-
-📚 DSA                   ██████████████░░░░░ 70%
-
-🛡️ Cybersecurity         ███████░░░░░░░░░░░░ Learning
-```
-
----
 # 🚀 Featured Projects
 
 <div align="center">
@@ -256,17 +226,6 @@
 
 ---
 
-# 📚 Learning Journey
-
-```text
-2024  ██████░░░░░░░░░ Started Programming (C)
-
-2025  ██████████░░░░ Learned C++, Java, HTML & CSS
-
-2026  ██████████████ Web Development + JavaScript + LeetCode + IoT + Cybersecurity
-```
-
----
 
 # 🎖️ Developer Philosophy
 
