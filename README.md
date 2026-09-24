@@ -57,7 +57,7 @@
 - 🌐 Advanced JavaScript
 - 📚 Data Structures & Algorithms
 - 🛡️ Cybersecurity
-- ⚛️ React.js (Upcoming)
+- ⚛️ React.js 
 
 ---
 
