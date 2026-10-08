@@ -96,7 +96,7 @@
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" />
 </p>
 
 ### ⚙️ Tools & Platforms
