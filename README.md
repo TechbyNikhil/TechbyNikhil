@@ -102,7 +102,7 @@
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 </div>
